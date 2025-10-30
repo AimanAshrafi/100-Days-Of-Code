@@ -11,7 +11,7 @@ int main(){
     scanf("%i" , &number1);
     printf("enter the second number:");
     scanf("%i" , &number2);
-    printf("\nThe sum of %i + %i" , number1, number2, number1+ number2);
+    printf("\nThe sum of %i + %i=%i\n",number1, number2, number1+ number2);
 
 
     return 0;
