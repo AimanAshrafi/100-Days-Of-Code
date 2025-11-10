@@ -1,10 +1,9 @@
 #include <stdio.h>
 
-int main(){
+int main()
+{
     int number1;
     int number2;
-
-    int sum = 0;
 
     
     printf("enter the first number:");
