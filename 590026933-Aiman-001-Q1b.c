@@ -1,5 +1,5 @@
 /*
-Title: question 2
+Title: question 1b
 Author: Aiman
 Purpose: to find sum , difference, product, and quotient.
 Date:30/9/2025
